@@ -1,7 +1,7 @@
 # data-science-ml-portfolio
 Portafolio de notebooks de Data Science, Machine Learning (Google Colab)
 
-## Guia rapida de notebooks (para reclutadores)
+## Guia rapida
 
 - `TALLER_01_PROCESO_EDA_PARA_DATASET_TITANIC.ipynb`:
 
